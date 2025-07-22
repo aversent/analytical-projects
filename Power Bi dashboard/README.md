@@ -1,3 +1,4 @@
+# Аналитика розничных продаж & Анализ данных с использованием Power BI. 
 Источник: https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset 
 
 Интерактивный дашборд в Power BI, созданный на основе синтетического Retail Sales Dataset с Kaggle. 
