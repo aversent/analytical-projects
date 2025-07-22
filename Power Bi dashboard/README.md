@@ -1,6 +1,7 @@
+Источник: https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset 
+
 Интерактивный дашборд в Power BI, созданный на основе синтетического Retail Sales Dataset с Kaggle. 
 Цель проекта — изучить поведение покупателей, выявить тренды и инсайты, которые можно применить в реальной розничной торговле.
-Источник: https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset 
 Тип данных: Табличные, синтетические, охватывают период с января по декабрь 2023 года 
 Объём: 1000 транзакций
 
